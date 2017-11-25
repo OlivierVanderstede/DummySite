@@ -1,0 +1,23 @@
+body {
+    background-color:whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar {
+    background-color:red;
+    color: white;
+}
+
+.navbar-inverse .navbar-nav > li > a, .navbar-inverse .navbar-brand  {
+    color:white;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-brand:hover {
+    color:black;
+}
+
+.content {
+    padding-top: 5em;
+    font-size: 2em;
+    text-align: center;
+}

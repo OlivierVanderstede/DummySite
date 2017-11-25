@@ -3,8 +3,9 @@
     include('header.html');
 ?>
 
+<h1 class="jumbotron">Welcome to my dummy site</h1>
 <div class="content">
-    The only thing it does is link this page to a <a href="assess_me.php">second</a> one
+    <a href="assess_me.php">Assess me!</a>
 </div>
 <?php
     include('footer.html');
