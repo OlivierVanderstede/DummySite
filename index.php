@@ -3,9 +3,9 @@
     include('header.html');
 ?>
 
-<h1 class="jumbotron">Welcome to my dummy site</h1>
+<h1 class="title">Welcome to my dummy site</h1>
 <div class="content">
-    <a href="assess_me.php">Assess me!</a>
+    <a class="btn btn-default btn-lg" href="assess_me.php">Assess me!</a>
 </div>
 <?php
     include('footer.html');

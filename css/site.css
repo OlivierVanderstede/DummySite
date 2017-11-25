@@ -3,6 +3,10 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.title {
+    text-align: center;
+}
+
 .navbar {
     background-color:red;
     color: white;
